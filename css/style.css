@@ -287,12 +287,12 @@ h1,h2,h3,h4,h5,h6,p{
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 10px; /* Location of the box */
-  padding-left: 10px; /* Location of the box */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
+  padding-top: 1vw; /* Location of the box */
+  padding-left: 1vh; /* Location of the box */
+  left: 0vw;
+  top: 0vh;
+  width: 100vw; /* Full width */
+  height: 100vh; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
@@ -304,5 +304,5 @@ h1,h2,h3,h4,h5,h6,p{
   background-color: #fefefe;
   padding: 25px; /* Location of the box */
   border: 1px solid #888;
-  width: 94.5%;
+  width: 94.5vw;
 }
