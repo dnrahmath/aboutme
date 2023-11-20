@@ -1,5 +1,4 @@
 {
-    "status-in":false,
-    "iv":"qwertyuiopasdfgh",
-    "key":"hgfdsapoiuytrewq"
+    "release":"qwertyuiopasdfgh",
+    "expired":"hgfdsapoiuytrewq"
 }
